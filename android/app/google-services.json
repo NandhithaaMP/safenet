@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555262330325",
+    "project_id": "safenetapp-562af",
+    "storage_bucket": "safenetapp-562af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555262330325:android:834f58e2ebb73ea104295c",
+        "android_client_info": {
+          "package_name": "com.example.safenetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHCaq0FouYWurleA5po12Y5S9U3kgU2GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
